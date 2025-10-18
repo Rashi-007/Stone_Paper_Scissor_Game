@@ -6,7 +6,7 @@ This mini-project lets users play the classic game against the computer, complet
 ---
 
 ## 🚀 Live Demo
-👉 Play the Game Here - throwitgameonline.netlify.app
+👉 Play the Game Here - https://throwitgameonline.netlify.app/
 
 ---
 
